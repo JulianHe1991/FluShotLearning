@@ -40,7 +40,7 @@ Similarly, the second graph shows the vaccine population from different racial g
 ## **Statistical Analysis**
 ### **Factors Ranking**
 
-![](Images/feature_importance_3.png)
+![](Images/feature_importance.png)
 
 
 We also generated a ranking of factors that influence vaccination decision the most. This is top 5 list starting from the seasonal vaccine status, Doctor recommendation, Health Insurance status, H1N1 Vaccine Efficacy, and Risk opinion on H1N1. 
