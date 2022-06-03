@@ -40,12 +40,13 @@ Similarly, the second graph shows the vaccine population from different racial g
 ## **Statistical Analysis**
 ### **Factors Ranking**
 
-![](Images/feature_importance.png)
+<img width="590" alt="feature_importance" src="https://user-images.githubusercontent.com/59464391/171949528-5497cd66-1f75-4adb-baf2-11473b3b87f1.png">
 
 
 We also generated a ranking of factors that influence vaccination decision the most. This is top 5 list starting from the seasonal vaccine status, Doctor recommendation, Health Insurance status, H1N1 Vaccine Efficacy, and Risk opinion on H1N1. 
 
 <br>
+
 
 ## **Recommendations & Conclusions**
 1. **Promotion:** Boost vaccination rates by promoting the benefits of vaccination, and we especially need medical professionals to help in that process.
